@@ -190,6 +190,7 @@ a {
   padding: 18px 20px;
   border-radius: 6px;
   box-shadow: 0 0px 18px rgba(0, 0, 0, 0.1);
+  z-index: 3;
 }
 .features-items.active {
   display: block;
